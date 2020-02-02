@@ -5,7 +5,7 @@ widgetStyle=kvantum
 ColorScheme=Inverse-dark
 
 [kdeglobals][Icons]
-Theme=Inverse-dark
+Theme=Inverse
 
 [plasmarc][Theme]
 name=Inverse-dark
