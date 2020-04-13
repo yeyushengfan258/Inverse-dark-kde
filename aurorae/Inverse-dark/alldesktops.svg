@@ -29,7 +29,7 @@
   <defs
      id="defs24" />
   <sodipodi:namedview
-     pagecolor="#646464"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1027"
      id="namedview22"
      showgrid="true"
-     inkscape:zoom="6.4202082"
-     inkscape:cx="62.780036"
-     inkscape:cy="1.9018737"
+     inkscape:zoom="4.5397728"
+     inkscape:cx="-9.223313"
+     inkscape:cy="61.156762"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306"
      inkscape:snap-bbox="true"
@@ -173,6 +173,6 @@
        cy="11"
        cx="34"
        id="circle842"
-       style="opacity:1;fill:#14c8ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#32a0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
