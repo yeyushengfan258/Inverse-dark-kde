@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg4306"
-   width="22"
-   height="22"
-   version="1.1"
-   style="enable-background:new"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="minimize.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   style="enable-background:new"
+   version="1.1"
+   height="22"
+   width="22"
+   id="svg4306">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -28,231 +28,208 @@
   </metadata>
   <defs
      id="defs24">
+    <linearGradient
+       id="linearGradient971"
+       inkscape:collect="always">
+      <stop
+         id="stop967"
+         offset="0"
+         style="stop-color:#ff963c;stop-opacity:1" />
+      <stop
+         id="stop969"
+         offset="1"
+         style="stop-color:#ffdc55;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient963"
+       inkscape:collect="always">
+      <stop
+         id="stop959"
+         offset="0"
+         style="stop-color:#ff963c;stop-opacity:1" />
+      <stop
+         id="stop961"
+         offset="1"
+         style="stop-color:#ffdc55;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient955"
+       inkscape:collect="always">
+      <stop
+         id="stop951"
+         offset="0"
+         style="stop-color:#ff963c;stop-opacity:1" />
+      <stop
+         id="stop953"
+         offset="1"
+         style="stop-color:#ffdc55;stop-opacity:1" />
+    </linearGradient>
     <filter
-       color-interpolation-filters="sRGB"
-       height="1.048"
-       width="1.048"
-       y="-.024"
+       id="filter11290"
        x="-.024"
-       id="filter11290">
+       y="-.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
-         id="feGaussianBlur879"
-         stdDeviation="0.15875313" />
+         stdDeviation="0.15875313"
+         id="feGaussianBlur879" />
+    </filter>
+    <linearGradient
+       id="linearGradient1005"
+       x1=".73911"
+       x2="16.137"
+       y1="16.296"
+       y2=".89803"
+       gradientTransform="translate(-0.0078552,-5.0139e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff963c"
+         offset="0"
+         id="stop882" />
+      <stop
+         stop-color="#ffdc55"
+         offset="1"
+         id="stop884" />
+    </linearGradient>
+    <filter
+       id="filter1223"
+       x="-.085107"
+       y="-.082922"
+       width="1.1702"
+       height="1.1658"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.33551144"
+         id="feGaussianBlur887" />
     </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.0078552,-5.0139e-5)"
-       y2=".89803"
-       y1="16.296"
-       x2="16.137"
-       x1=".73911"
-       id="linearGradient1005">
-      <stop
-         id="stop882"
-         offset="0"
-         stop-color="#ff963c" />
-      <stop
-         id="stop884"
-         offset="1"
-         stop-color="#ffdc55" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       height="1.1658"
-       width="1.1702"
-       y="-.082922"
-       x="-.085107"
-       id="filter1223">
-      <feGaussianBlur
-         id="feGaussianBlur887"
-         stdDeviation="0.33551144" />
-    </filter>
+       y2="249"
+       x2="1279"
+       y1="261"
+       x1="1267"
+       id="linearGradient957"
+       xlink:href="#linearGradient955"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="249.01917"
+       x2="1279"
+       y1="260.95563"
+       x1="1266.9885"
+       id="linearGradient965"
+       xlink:href="#linearGradient963"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="249"
+       x2="1279"
+       y1="261.02258"
+       x1="1266.9885"
+       id="linearGradient973"
+       xlink:href="#linearGradient971"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     id="namedview22"
-     showgrid="true"
-     inkscape:zoom="7.5853271"
-     inkscape:cx="-9.2521632"
-     inkscape:cy="7.0785141"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4306"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4306">
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="3.0651315"
+     inkscape:cx="26.564776"
+     inkscape:zoom="15.170655"
+     showgrid="true"
+     id="namedview22"
+     inkscape:window-height="1023"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <inkscape:grid
-       type="xygrid"
-       id="grid949" />
+       id="grid949"
+       type="xygrid" />
   </sodipodi:namedview>
   <g
-     transform="matrix(1.375,0,0,1.375,-664.23427,285.6854)"
-     inkscape:label="#hover-center"
-     id="hover-center"
-     style="display:inline">
-    <g
-       transform="translate(-781,-432.63782)"
-       style="display:inline;opacity:1"
-       id="g6314">
-      <ellipse
-         ry="6.0000005"
-         rx="6"
-         id="ellipse6288"
-         style="display:inline;opacity:0.95;fill:#32a0ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         cx="1273"
-         cy="255" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6290"
-         d="m 1273,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
-         style="display:inline;opacity:0;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <g
-         transform="translate(1265,247)"
-         id="g6312"
-         style="display:inline;opacity:1;fill:#c0e3ff;fill-opacity:1">
-        <g
-           id="g6292"
-           inkscape:label="status"
-           style="display:inline;fill:#c0e3ff;fill-opacity:1"
-           transform="translate(-81.0002,-967)" />
-        <g
-           style="fill:#c0e3ff;fill-opacity:1"
-           id="g6294"
-           inkscape:label="devices"
-           transform="translate(-81.0002,-967)" />
-        <g
-           style="fill:#c0e3ff;fill-opacity:1"
-           id="g6296"
-           inkscape:label="apps"
-           transform="translate(-81.0002,-967)" />
-        <g
-           style="fill:#c0e3ff;fill-opacity:1"
-           id="g6298"
-           inkscape:label="places"
-           transform="translate(-81.0002,-967)" />
-        <g
-           style="fill:#c0e3ff;fill-opacity:1"
-           id="g6300"
-           inkscape:label="mimetypes"
-           transform="translate(-81.0002,-967)" />
-        <g
-           id="g6302"
-           inkscape:label="emblems"
-           style="display:inline;fill:#c0e3ff;fill-opacity:1"
-           transform="translate(-81.0002,-967)" />
-        <g
-           id="g6304"
-           inkscape:label="emotes"
-           style="display:inline;fill:#c0e3ff;fill-opacity:1"
-           transform="translate(-81.0002,-967)" />
-        <g
-           id="g6306"
-           inkscape:label="categories"
-           style="display:inline;fill:#c0e3ff;fill-opacity:1"
-           transform="translate(-81.0002,-967)" />
-        <g
-           id="g6310"
-           inkscape:label="actions"
-           style="display:inline;fill:#c0e3ff;fill-opacity:1"
-           transform="translate(-81.0002,-967)">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 86.0002,974 v 2 h 6 v -2 z"
-             id="path6308"
-             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             sodipodi:nodetypes="ccccc" />
-        </g>
-      </g>
-    </g>
-    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-       id="rect6316"
-       width="16"
-       height="16"
-       x="484"
-       y="-185.63782" />
-  </g>
-  <g
      style="display:inline"
-     id="pressed-center"
-     inkscape:label="#pressed-center"
-     transform="matrix(1.375,0,0,1.375,-664.23427,309.97094)">
+     id="hover-center"
+     inkscape:label="#hover-center"
+     transform="matrix(1.375,0,0,1.375,-664.23427,285.6854)">
     <g
-       id="g6410"
+       id="g6314"
        style="display:inline;opacity:1"
        transform="translate(-781,-432.63782)">
       <ellipse
          cy="255"
          cx="1273"
-         style="display:inline;opacity:0.95;fill:#32a0ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="ellipse6384"
+         style="display:inline;opacity:0.95;fill:url(#linearGradient965);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6288"
          rx="6"
          ry="6.0000005" />
       <path
          style="display:inline;opacity:0;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 1273,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
-         id="path6386"
+         id="path6290"
          inkscape:connector-curvature="0" />
       <g
          style="display:inline;opacity:1;fill:#c0e3ff;fill-opacity:1"
-         id="g6408"
+         id="g6312"
          transform="translate(1265,247)">
         <g
            transform="translate(-81.0002,-967)"
            style="display:inline;fill:#c0e3ff;fill-opacity:1"
            inkscape:label="status"
-           id="g6388" />
+           id="g6292" />
         <g
            transform="translate(-81.0002,-967)"
            inkscape:label="devices"
-           id="g6390"
+           id="g6294"
            style="fill:#c0e3ff;fill-opacity:1" />
         <g
            transform="translate(-81.0002,-967)"
            inkscape:label="apps"
-           id="g6392"
+           id="g6296"
            style="fill:#c0e3ff;fill-opacity:1" />
         <g
            transform="translate(-81.0002,-967)"
            inkscape:label="places"
-           id="g6394"
+           id="g6298"
            style="fill:#c0e3ff;fill-opacity:1" />
         <g
            transform="translate(-81.0002,-967)"
            inkscape:label="mimetypes"
-           id="g6396"
+           id="g6300"
            style="fill:#c0e3ff;fill-opacity:1" />
         <g
            transform="translate(-81.0002,-967)"
            style="display:inline;fill:#c0e3ff;fill-opacity:1"
            inkscape:label="emblems"
-           id="g6398" />
+           id="g6302" />
         <g
            transform="translate(-81.0002,-967)"
            style="display:inline;fill:#c0e3ff;fill-opacity:1"
            inkscape:label="emotes"
-           id="g6400" />
+           id="g6304" />
         <g
            transform="translate(-81.0002,-967)"
            style="display:inline;fill:#c0e3ff;fill-opacity:1"
            inkscape:label="categories"
-           id="g6402" />
+           id="g6306" />
         <g
            transform="translate(-81.0002,-967)"
            style="display:inline;fill:#c0e3ff;fill-opacity:1"
            inkscape:label="actions"
-           id="g6406">
+           id="g6310">
           <path
              sodipodi:nodetypes="ccccc"
-             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             id="path6404"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+             id="path6308"
              d="m 86.0002,974 v 2 h 6 v -2 z"
              inkscape:connector-curvature="0" />
         </g>
@@ -263,181 +240,169 @@
        x="484"
        height="16"
        width="16"
-       id="rect6412"
+       id="rect6316"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
   </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#g1051"
-     id="use1053"
-     transform="translate(27.966102)"
-     width="100%"
-     height="100%" />
   <g
-     id="active-center">
+     transform="matrix(1.375,0,0,1.375,-664.23427,309.97094)"
+     inkscape:label="#pressed-center"
+     id="pressed-center"
+     style="display:inline">
     <g
-       transform="translate(-481,188.63782)"
-       inkscape:label="#g6308"
-       id="titlebutton-minimize"
-       style="display:inline">
+       transform="translate(-781,-432.63782)"
+       style="display:inline;opacity:1"
+       id="g6410">
+      <ellipse
+         ry="6.0000005"
+         rx="6"
+         id="ellipse6384"
+         style="display:inline;opacity:0.95;fill:url(#linearGradient973);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="1273"
+         cy="255" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6386"
+         d="m 1273,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
+         style="display:inline;opacity:0;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="translate(-781,-432.63782)"
-         style="display:inline;opacity:1"
-         id="g4909-8">
-        <ellipse
-           ry="6.0000005"
-           rx="6"
-           id="path4068-7-5-9-6-7-2-1-6"
-           style="display:inline;opacity:0.95;fill:#32a0ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           cx="1273"
-           cy="255" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4068-7-5-9-6-7-2-5-23-8"
-           d="m 1273,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
-           style="display:inline;opacity:0;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         transform="translate(1265,247)"
+         id="g6408"
+         style="display:inline;opacity:1;fill:#c0e3ff;fill-opacity:1">
         <g
-           transform="translate(1265,247)"
-           id="g4834-0-8"
-           style="display:inline;opacity:1;fill:#c0e3ff;fill-opacity:1">
-          <g
-             id="layer9-3-4-4"
-             inkscape:label="status"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             transform="translate(-81.0002,-967)" />
-          <g
-             style="fill:#c0e3ff;fill-opacity:1"
-             id="layer10-4-1-3"
-             inkscape:label="devices"
-             transform="translate(-81.0002,-967)" />
-          <g
-             style="fill:#c0e3ff;fill-opacity:1"
-             id="layer11-2-6-1"
-             inkscape:label="apps"
-             transform="translate(-81.0002,-967)" />
-          <g
-             style="fill:#c0e3ff;fill-opacity:1"
-             id="layer13-5-4-4"
-             inkscape:label="places"
-             transform="translate(-81.0002,-967)" />
-          <g
-             style="fill:#c0e3ff;fill-opacity:1"
-             id="layer14-6-0-9"
-             inkscape:label="mimetypes"
-             transform="translate(-81.0002,-967)" />
-          <g
-             id="layer15-52-1-2"
-             inkscape:label="emblems"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             transform="translate(-81.0002,-967)" />
-          <g
-             id="g71291-3-9-0"
-             inkscape:label="emotes"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             transform="translate(-81.0002,-967)" />
-          <g
-             id="g4953-8-2-6"
-             inkscape:label="categories"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             transform="translate(-81.0002,-967)" />
-          <g
-             id="layer12-45-6-8"
-             inkscape:label="actions"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             transform="translate(-81.0002,-967)" />
+           id="g6388"
+           inkscape:label="status"
+           style="display:inline;fill:#c0e3ff;fill-opacity:1"
+           transform="translate(-81.0002,-967)" />
+        <g
+           style="fill:#c0e3ff;fill-opacity:1"
+           id="g6390"
+           inkscape:label="devices"
+           transform="translate(-81.0002,-967)" />
+        <g
+           style="fill:#c0e3ff;fill-opacity:1"
+           id="g6392"
+           inkscape:label="apps"
+           transform="translate(-81.0002,-967)" />
+        <g
+           style="fill:#c0e3ff;fill-opacity:1"
+           id="g6394"
+           inkscape:label="places"
+           transform="translate(-81.0002,-967)" />
+        <g
+           style="fill:#c0e3ff;fill-opacity:1"
+           id="g6396"
+           inkscape:label="mimetypes"
+           transform="translate(-81.0002,-967)" />
+        <g
+           id="g6398"
+           inkscape:label="emblems"
+           style="display:inline;fill:#c0e3ff;fill-opacity:1"
+           transform="translate(-81.0002,-967)" />
+        <g
+           id="g6400"
+           inkscape:label="emotes"
+           style="display:inline;fill:#c0e3ff;fill-opacity:1"
+           transform="translate(-81.0002,-967)" />
+        <g
+           id="g6402"
+           inkscape:label="categories"
+           style="display:inline;fill:#c0e3ff;fill-opacity:1"
+           transform="translate(-81.0002,-967)" />
+        <g
+           id="g6406"
+           inkscape:label="actions"
+           style="display:inline;fill:#c0e3ff;fill-opacity:1"
+           transform="translate(-81.0002,-967)">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 86.0002,974 v 2 h 6 v -2 z"
+             id="path6404"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="ccccc" />
         </g>
       </g>
-      <rect
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         id="rect17883-11-9"
-         width="16"
-         height="16"
-         x="484"
-         y="-185.63782" />
     </g>
     <rect
-       ry="0"
-       rx="0"
-       y="9.5367432e-07"
-       x="9.5367432e-07"
-       height="21.999998"
-       width="21.999998"
-       id="rect962"
-       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect6412"
+       width="16"
+       height="16"
+       x="484"
+       y="-185.63782" />
   </g>
   <g
-     id="inactive-center">
+     transform="translate(-25.355931,2.0508473)"
+     id="active-center">
     <g
        style="display:inline"
-       id="titlebutton-minimize-backdrop"
+       id="titlebutton-minimize"
        inkscape:label="#g6308"
-       transform="translate(-452.34444,188.69834)">
+       transform="translate(-455.64407,186.58697)">
       <g
-         id="g6502"
+         id="g4909-8"
          style="display:inline;opacity:1"
          transform="translate(-781,-432.63782)">
         <ellipse
            cy="255"
            cx="1273"
-           style="display:inline;opacity:0.95;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="ellipse6478"
+           style="display:inline;opacity:0.95;fill:url(#linearGradient957);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4068-7-5-9-6-7-2-1-6"
            rx="6"
            ry="6.0000005" />
         <path
            style="display:inline;opacity:0;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            d="m 1273,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
-           id="path6480"
+           id="path4068-7-5-9-6-7-2-5-23-8"
            inkscape:connector-curvature="0" />
         <g
            style="display:inline;opacity:1;fill:#c0e3ff;fill-opacity:1"
-           id="g6500"
+           id="g4834-0-8"
            transform="translate(1265,247)">
           <g
              transform="translate(-81.0002,-967)"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              inkscape:label="status"
-             id="g6482" />
+             id="layer9-3-4-4" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="devices"
-             id="g6484"
+             id="layer10-4-1-3"
              style="fill:#c0e3ff;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="apps"
-             id="g6486"
+             id="layer11-2-6-1"
              style="fill:#c0e3ff;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="places"
-             id="g6488"
+             id="layer13-5-4-4"
              style="fill:#c0e3ff;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="mimetypes"
-             id="g6490"
+             id="layer14-6-0-9"
              style="fill:#c0e3ff;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              inkscape:label="emblems"
-             id="g6492" />
+             id="layer15-52-1-2" />
           <g
              transform="translate(-81.0002,-967)"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              inkscape:label="emotes"
-             id="g6494" />
+             id="g71291-3-9-0" />
           <g
              transform="translate(-81.0002,-967)"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              inkscape:label="categories"
-             id="g6496" />
+             id="g4953-8-2-6" />
           <g
              transform="translate(-81.0002,-967)"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              inkscape:label="actions"
-             id="g6498" />
+             id="layer12-45-6-8" />
         </g>
       </g>
       <rect
@@ -445,88 +410,89 @@
          x="484"
          height="16"
          width="16"
-         id="rect6504"
+         id="rect17883-11-9"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
     </g>
     <rect
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect1015"
+       id="rect962"
        width="21.999998"
        height="21.999998"
-       x="28.655563"
-       y="0.0605249"
+       x="25.355932"
+       y="-2.0508463"
        rx="0"
        ry="0" />
   </g>
   <g
-     id="deactivated-center">
+     transform="translate(3.2996305,32.111371)"
+     id="inactive-center">
     <g
-       transform="translate(-422.14105,189.4441)"
+       transform="translate(-455.64407,156.58697)"
        inkscape:label="#g6308"
-       id="g1073"
+       id="titlebutton-minimize-backdrop"
        style="display:inline">
       <g
          transform="translate(-781,-432.63782)"
          style="display:inline;opacity:1"
-         id="g1069">
+         id="g6502">
         <ellipse
            ry="6.0000005"
            rx="6"
-           id="ellipse1045"
-           style="display:inline;opacity:0.95;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse6478"
+           style="display:inline;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            cx="1273"
            cy="255" />
         <path
            inkscape:connector-curvature="0"
-           id="path1047"
+           id="path6480"
            d="m 1273,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
            style="display:inline;opacity:0;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            transform="translate(1265,247)"
-           id="g1067"
+           id="g6500"
            style="display:inline;opacity:1;fill:#c0e3ff;fill-opacity:1">
           <g
-             id="g1049"
+             id="g6482"
              inkscape:label="status"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              transform="translate(-81.0002,-967)" />
           <g
              style="fill:#c0e3ff;fill-opacity:1"
-             id="g1051"
+             id="g6484"
              inkscape:label="devices"
              transform="translate(-81.0002,-967)" />
           <g
              style="fill:#c0e3ff;fill-opacity:1"
-             id="g1053"
+             id="g6486"
              inkscape:label="apps"
              transform="translate(-81.0002,-967)" />
           <g
              style="fill:#c0e3ff;fill-opacity:1"
-             id="g1055"
+             id="g6488"
              inkscape:label="places"
              transform="translate(-81.0002,-967)" />
           <g
              style="fill:#c0e3ff;fill-opacity:1"
-             id="g1057"
+             id="g6490"
              inkscape:label="mimetypes"
              transform="translate(-81.0002,-967)" />
           <g
-             id="g1059"
+             id="g6492"
              inkscape:label="emblems"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              transform="translate(-81.0002,-967)" />
           <g
-             id="g1061"
+             id="g6494"
              inkscape:label="emotes"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              transform="translate(-81.0002,-967)" />
           <g
-             id="g1063"
+             id="g6496"
              inkscape:label="categories"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              transform="translate(-81.0002,-967)" />
           <g
-             id="g1065"
+             id="g6498"
              inkscape:label="actions"
              style="display:inline;fill:#c0e3ff;fill-opacity:1"
              transform="translate(-81.0002,-967)" />
@@ -534,7 +500,7 @@
       </g>
       <rect
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         id="rect1071"
+         id="rect6504"
          width="16"
          height="16"
          x="484"
@@ -543,11 +509,27 @@
     <rect
        ry="0"
        rx="0"
-       y="0.80628788"
-       x="58.858952"
+       y="-32.050846"
+       x="25.355932"
        height="21.999998"
        width="21.999998"
-       id="rect1075"
+       id="rect1015"
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
   </g>
+  <use
+     height="100%"
+     width="100%"
+     transform="translate(27.966102)"
+     id="use1053"
+     xlink:href="#g1051"
+     y="0"
+     x="0" />
+  <use
+     height="100%"
+     width="100%"
+     transform="translate(30.20339,0.74576271)"
+     id="deactivated-center"
+     xlink:href="#inactive-center"
+     y="0"
+     x="0" />
 </svg>

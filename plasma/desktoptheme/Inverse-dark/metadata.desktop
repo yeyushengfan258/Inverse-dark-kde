@@ -1,11 +1,23 @@
 [Desktop Entry]
-Comment=A translucent theme for Plasma 5
 Name=Inverse-dark
 X-KDE-PluginInfo-Author=yeyushengfan258
-X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Email=yeyushengfan258@aliyun.com
-X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GLP V3.0
 X-KDE-PluginInfo-Name=Inverse-dark
-X-KDE-PluginInfo-Version=0.1
-X-Plasma-API=5.0
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Inverse-dark
+defaultFileSuffix=.jpg
+defaultWidth=1920
+defaultHeight=1080
